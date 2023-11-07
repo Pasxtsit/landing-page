@@ -80,17 +80,17 @@ justify-content: space-between;
 .imgbox{
 display: flex;
 flex-direction: column;
-width: 120px;
+width: 155px;
 }
 .imgsubtxt{
     color: #1f2937;
-    font-size: 14px;
+    font-size: 17px;
     text-align: center;
 }
 .imgwhite{
-    border: 2px solid #3882f6;
+    border: 3px solid #3882f6;
     height: auto;
-    width: 120px;
+    width: 155px;
     border-radius: 10%;
 }
 .imgline{
