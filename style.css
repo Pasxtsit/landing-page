@@ -99,3 +99,26 @@ width: 120px;
     gap: 38px;
     align-items: flex-start;
 }
+.quote{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+}
+.quotetxt{
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+}
+.quotetxtbox{
+    display: flex;
+    flex-direction: column;
+    width: 750px;
+}
+.quotename{
+    color: black;
+    font-size: 26px;
+    font-weight: bolder;
+    text-align: right;
+    padding-right: 20px;
+}
