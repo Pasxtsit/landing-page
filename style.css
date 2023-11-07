@@ -1,0 +1,39 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.hero-footer{
+background-color: #1f2937;
+}
+
+.logo {
+font-size: 28px;
+color: #f9faf8;
+}
+.secondary{
+    color: #e5e7eb;
+    font-size: 18px;
+}
+.hero-main{
+    color: #f9faf8;
+    font-size: 48px;
+}
+.button{
+    background-color: #3882f6;
+    border-radius: 10%;
+    color: white;
+    font-size: 22;
+    font-weight: 900;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-style: none;
+}
