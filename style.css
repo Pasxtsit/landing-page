@@ -18,6 +18,8 @@ font-size: 28px;
 color: #f9faf8;
 }
 .secondary{
+    display: flex;
+    gap: 12px;
     color: #e5e7eb;
     font-size: 18px;
 }
@@ -36,4 +38,22 @@ color: #f9faf8;
     padding-left: 25px;
     padding-right: 25px;
     border-style: none;
+}
+.nav-bar{
+display: flex;
+flex-direction: row;
+align-items: flex-end;
+justify-content: space-between;
+}
+.alignX{
+    padding-left: 400px;
+}
+.alignXend{
+    padding-right: 400px;
+}
+
+
+.alignY{
+    padding-top: 15px;
+    padding-bottom: 55px;
 }
